@@ -1,5 +1,5 @@
 # Dharmaseervi Portfolio
-Welcome to my personal portfolio website! You can view the [live](https://dharmaseervi-portfolio.netlify.app) version here.
+Welcome to my personal portfolio website! You can view the [live](https://dharma-portfolio-inky.vercel.app) version here.
 
 Table of Contents
 -- Features
