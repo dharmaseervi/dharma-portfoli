@@ -66,3 +66,4 @@ This project is licensed under the MIT License. Feel free to use the code as a t
 Thank you for visiting my personal portfolio website! If you have any questions or feedback, please don't hesitate to reach out.
 
 Happy coding! 🚀
+# dharma-portfolio
